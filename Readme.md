@@ -12,8 +12,6 @@ STAGED - Está em modo de esperar para comitar.
 
 
 
-
-
-
-
 Comando Diff
+
+Alterando o arquivo depois que o mesmo já está no Github.
