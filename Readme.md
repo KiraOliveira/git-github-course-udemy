@@ -16,7 +16,7 @@ Comando Diff
 
 Alterando o arquivo depois que o mesmo já está no Github.
 
-[!Meu Botão](https://img.shields.io/badge/kira-01-blue.svg)]
+[![Meu Botão](https://img.shields.io/badge/kira-01-blue.svg)]
 
 
 [!Usando o comando STASH]
