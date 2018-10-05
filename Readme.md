@@ -16,10 +16,10 @@ Comando Diff
 
 Alterando o arquivo depois que o mesmo já está no Github.
 
-[![Meu Botão](https://img.shields.io/badge/kira-01-blue.svg)]
+![Meu Botão](https://img.shields.io/badge/kira-01-blue.svg)
 
 
-[!Usando o comando STASH]
+![Usando o comando STASH](https://git-scm.com/book/pt-br/v1/Ferramentas-do-Git-Fazendo-Stash)
 
-[!Usando o Versionamento - TAGS]
+![Usando o Versionamento - TAGS](https://git-scm.com/book/pt-br/v1/Git-Essencial-Tagging)
 
